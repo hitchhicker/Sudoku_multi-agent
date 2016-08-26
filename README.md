@@ -1,2 +1,2 @@
 # Sudoku_multi-agent
-##Resolution of sudoku under mutilple-agent plateform JADE
+##Resolution of sudoku on JADE(mutilple-agent plateform)
